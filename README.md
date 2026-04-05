@@ -97,7 +97,7 @@ model = HuggingFaceModel(
 ## Quickstart
 
 ```bash
-git clone https://github.com/shivamkesarwani/indic-eval
+git clone https://github.com/shivamkesarwani1/indic-eval
 cd indic-eval
 pip install -e .
 ```
